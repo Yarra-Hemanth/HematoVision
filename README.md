@@ -13,15 +13,15 @@ HematoVision is a deep learning-powered solution designed to **accurately classi
 ---
 
 ## 📂 Project Structure
-HematoVision/
+HematoVision/  
 ├── app.py # Flask backend  
-├── Blood cell.h5 # Trained Keras model
-├── requirements.txt # Required Python packages
-├── templates/
-│ ├── home.html # Upload interface
-│ └── result.html # Result display page
-├── static/ # Uploaded images (generated at runtime)
-└── README.md # Project documentation
+├── Blood cell.h5 # Trained Keras model  
+├── requirements.txt # Required Python packages  
+├── templates/  
+│ ├── home.html # Upload interface  
+│ └── result.html # Result display page  
+├── static/ # Uploaded images (generated at runtime)  
+└── README.md # Project documentation  
 
 
 ---
