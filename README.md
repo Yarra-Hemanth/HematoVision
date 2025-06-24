@@ -8,7 +8,7 @@ HematoVision is a deep learning-powered solution designed to **accurately classi
 
 - 🎯 **Objective**: Build an efficient and scalable blood cell classification model using transfer learning with CNNs.
 - 📊 **Dataset**: 12,000 labeled blood cell images from the [Kaggle Blood Cell Dataset](https://www.kaggle.com/datasets/paultimothymooney/blood-cells).
-- 🔄 **Approach**: Pre-trained models (e.g., VGG16, ResNet) are fine-tuned to reduce training time and boost classification accuracy.
+- 🔄 **Approach**: Pre-trained models (e.g., MobilenetV2) are fine-tuned to reduce training time and boost classification accuracy.
 
 ---
 
@@ -63,7 +63,7 @@ Frontend: HTML, Bootstrap (optional)
 
 Backend: Flask + Flask-ngrok
 
-Model: Keras/TensorFlow with Transfer Learning (e.g., VGG16)
+Model: Keras/TensorFlow with Transfer Learning (e.g., MobilenetV2)
 
 Deployment: Google Colab (for testing), Flask-ngrok for live preview
 
