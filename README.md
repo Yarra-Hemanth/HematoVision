@@ -83,7 +83,7 @@ Pillow
 A blood cell image is uploaded through the web app, and the predicted class is displayed with high accuracy using the trained CNN model.
 
 Demo:
-You can also see the demo: [https://your-demo-link.com](https://drive.google.com/file/d/1RO9iZyOlyghhoRg4wUB5qBCFuJB9jUyT/view)
+You can also see the demo: [Click Here.](https://drive.google.com/file/d/1RO9iZyOlyghhoRg4wUB5qBCFuJB9jUyT/view)
 Check out the live implementation at the end of the Video.
 
 🤝 Contributions
