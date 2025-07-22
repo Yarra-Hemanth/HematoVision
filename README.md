@@ -40,8 +40,8 @@ Run Flask with ngrok
 !python app.py
 Open the ngrok URL to test your app live!
 
-🧠 Scenarios of Application
-📌 Scenario 1: Automated Diagnostic Systems
+🧠 Scenarios of Application  
+📌 Scenario 1: Automated Diagnostic Systems  
 Integrate with clinical workflows
 
 Real-time classification and reporting
@@ -86,14 +86,14 @@ Demo:
 You can also see the demo: [Click Here.](https://drive.google.com/file/d/1RO9iZyOlyghhoRg4wUB5qBCFuJB9jUyT/view)
 Check out the live implementation at the end of the Video.
 
-🤝 Contributions
+🤝 Contributions  
 Feel free to fork, open issues, or submit pull requests to contribute to HematoVision.
 
-📜 License
+📜 License  
 This project is licensed under the MIT License. See LICENSE for more details.
 
-📫 Contact
-Hemanth Yarra
-LinkedIn | hemanthyarra@gmail.com
+📫 Contact  
+Hemanth Yarra  
+[LinkedIn](https://www.linkedin.com/in/hemanth-yarra-5a1775305/) | [yarrahemanth5@gmail.com](yarrahemanth5@gmail.com)  
 
 Let me know if you'd like a version with badges, screenshots, or setup for GitHub Pages.
