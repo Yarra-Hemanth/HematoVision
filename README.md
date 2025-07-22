@@ -36,9 +36,11 @@ Upload model and HTML templates
 
 Upload Blood cell.h5, home.html, result.html
 
-Run Flask with ngrok
-!python app.py
-Open the ngrok URL to test your app live!
+Run Flask with ngrok  
+!python app.py  
+Open the ngrok URL to test your app live!  
+
+---
 
 🧠 Scenarios of Application  
 📌 Scenario 1: Automated Diagnostic Systems  
@@ -58,6 +60,8 @@ Use as a training assistant for students and lab technicians
 
 Interactive blood cell recognition with instant feedback
 
+---
+
 🛠️ Tech Stack
 Frontend: HTML, Bootstrap (optional)
 
@@ -66,6 +70,8 @@ Backend: Flask + Flask-ngrok
 Model: Keras/TensorFlow with Transfer Learning (e.g., MobilenetV2)
 
 Deployment: Google Colab (for testing), Flask-ngrok for live preview
+
+---
 
 📌 Requirements
 Install via pip:
@@ -82,6 +88,8 @@ Pillow
 📷 Sample Output
 A blood cell image is uploaded through the web app, and the predicted class is displayed with high accuracy using the trained CNN model.
 
+---
+
 Demo:
 You can also see the demo: [Click Here.](https://drive.google.com/file/d/1RO9iZyOlyghhoRg4wUB5qBCFuJB9jUyT/view)
 Check out the live implementation at the end of the Video.
@@ -94,6 +102,6 @@ This project is licensed under the MIT License. See LICENSE for more details.
 
 📫 Contact  
 Hemanth Yarra  
-[LinkedIn](https://www.linkedin.com/in/hemanth-yarra-5a1775305/) | [yarrahemanth5@gmail.com](yarrahemanth5@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/hemanth-yarra-5a1775305/) | yarrahemanth5@gmail.com
 
 Let me know if you'd like a version with badges, screenshots, or setup for GitHub Pages.
